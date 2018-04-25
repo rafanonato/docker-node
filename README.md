@@ -22,7 +22,7 @@ docker ps
 
 # Imprimir saida do Container
 ```
-$ docker logs <container id>
+docker logs <container id>
 ```
 # Saida de Exemplo
 
